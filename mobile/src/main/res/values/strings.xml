@@ -3,16 +3,4 @@
     <string name="detail_image">itemView</string>
     <string name="action_settings">Settings</string>
 
-
-    <string name="fashion_style">Fashion &amp; Style</string>
-
-
-    <string-array name="sort_order_array">
-        <item>Newest</item>
-        <item>Oldest</item>
-
-    </string-array>
-
-
-
 </resources>
